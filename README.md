@@ -1,4 +1,3 @@
-<H1>Carlos Eduardo Toledo</H1>
+<H1><i>Carlos Eduardo Toledo</i></H1>
 
-<h6>Olá sou amante de técnologia desde os anos 2000</h6>
 
