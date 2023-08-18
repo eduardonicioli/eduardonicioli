@@ -6,5 +6,6 @@
 <li>Profissionalmente trabalho como vendedor de Auto Peças</li>
 <li>Estou cursando no momento a Faculdade de Desenvolvimento de Software Multiplataforma.</li>
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+            <i class="devicon-git-plain"></i>
+          
           
