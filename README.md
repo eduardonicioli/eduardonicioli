@@ -1,4 +1,4 @@
-<H1><i>Carlos Eduardo Toledo</i></H1>
+<H1><i>Carlos Eduardo Nicioli</i></H1>
 
 <li>Olá sou mais conhecido como Bradoke (virtualmente), estou envolvido na área de Técnologia desde 2000.</li>
 <li>Minha maior experiência é com Hardware e Redes.</li>
