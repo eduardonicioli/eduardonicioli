@@ -12,7 +12,7 @@
   </li>
   <li><strong>Trabalho atual</strong>:
     <ul>
-      <li>Vendedor em uma loja de Auto Peças</li>
+      <li>Suporte de Ti na empresa Viviane Furrier</li>
     </ul>
   </li>
 </ul>
