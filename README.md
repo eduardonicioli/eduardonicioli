@@ -12,7 +12,7 @@
   </li>
   <li><strong>Trabalho atual</strong>:
     <ul>
-      <li>Suporte de Ti na empresa <a href="https://www.vivianefurrier.com">Viviane Furrier</a></li>
+      <li>Suporte de Ti na empresa <a href="https://www.vivianefurrier.com.br">Viviane Furrier</a></li>
     </ul>
   </li>
 </ul>
