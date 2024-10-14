@@ -1,6 +1,6 @@
 <h1>Olá, sou Carlos Eduardo Nicioli! 👋</h1>
 
-<h2>Conhecido como Bradoke no mundo virtual</h2>
+<h2>Bradoke no mundo virtual</h2>
 
 <p>Desde 2000, venho me dedicando à área de Tecnologia, adquirindo uma vasta experiência em <strong>Hardware e Redes</strong>. Minha trajetória profissional inclui:</p>
 
